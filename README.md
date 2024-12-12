@@ -26,5 +26,5 @@ A simple calculator built with **React.js** and styled using **Tailwind CSS**. I
     npm run dev
     ```
 ### Live preview
-   [Link]()
+   [Link](https://calculator-app-task-five.vercel.app/)
 
